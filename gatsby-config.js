@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Markdown Starter',
+    title: 'Abbas Ballout',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

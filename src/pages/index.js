@@ -36,8 +36,17 @@ const IndexPage = () => {
             size="large"
             icon="github"
             href="https://github.com/cvluca/gatsby-starter-markdown"
+            style={{ marginRight: 10 }}
           >
             Github
+          </Button>
+          <Button
+            type="primary"
+            size="large"
+            icon="twitter"
+            href="https://github.com/cvluca/gatsby-starter-markdown"
+          >
+            twitter
           </Button>
         </div>
       </div>
