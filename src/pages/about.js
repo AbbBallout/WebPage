@@ -21,7 +21,7 @@ const AboutPage = () => {
           </p>
           <h2>Boilerplate for markdown-based website</h2>
           <br />
-          <Link to="/docs/get-started/introduction">
+          <Link to="/docs/guide/anchor">
             <Button
               type="primary"
               size="large"

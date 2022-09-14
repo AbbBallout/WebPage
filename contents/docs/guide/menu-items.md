@@ -18,7 +18,7 @@ See the current file. `Docs` is linked directly to the markdown page, and `Blog`
 [
   {
     "name": "Docs",
-    "link":  "/docs/get-started/introduction"
+
   },
   {
     "name": "Blog",

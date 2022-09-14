@@ -66,8 +66,6 @@ The current page contains a multiple level of sidebar, and it's defined with thr
   "entry": "Get Started",
   "name": "Get Started",
   "items": [
-    "docs/get-started/introduction",
-    "docs/get-started/quick-start"
   ]
 },
 {

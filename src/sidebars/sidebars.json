@@ -3,18 +3,40 @@
     "entry": "Docs",
     "name": "Docs",
     "child_entries": [
-      "Get Started",
+      "Material",
+      "Tutorials",
+      "Showcases",
       "Guide"
     ]
   },
+
   {
-    "entry": "Get Started",
-    "name": "Get Started",
+    "entry": "Material",
+    "name": "Material",
     "items": [
-      "docs/get-started/introduction",
-      "docs/get-started/quick-start"
+      "docs/material/empty-material1",
+      "docs/material/empty-material2"
     ]
   },
+
+  {
+    "entry": "Tutorials",
+    "name": "Tutorials",
+    "items": [
+      "docs/tutorials/empty-tutorial1",
+      "docs/tutorials/empty-tutorial2"
+    ]
+  },
+
+  {
+    "entry": "Showcases",
+    "name": "Showcases",
+    "items": [
+      "docs/showcases/empty-showcase1",
+      "docs/showcases/empty-showcase2"
+    ]
+  },
+
   {
     "entry": "Guide",
     "name": "Guide",
@@ -25,6 +47,7 @@
       "docs/guide/sidebar"
     ]
   },
+
   {
     "entry": "Blog",
     "name": "Blog",
