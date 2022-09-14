@@ -3,7 +3,7 @@ title: Introduction
 sidebar: Docs
 showTitle: true
 ---
-Gatsby Markdown Starter is a boilerplate for markdown-based website (i.e. Documentation, Blog, etc.)AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Gatsby Markdown Starter is a boilerplate for markdown-based website (i.e. Documentation, Blog, etc.)
 
 ## Features
 
