@@ -29,7 +29,7 @@ class Container extends Component {
               : menuOpen
               ? nMenuItem * 32 + 75
               : 80,
-          left: 0,
+          left: -100,
           right: 0,
           bottom: 0,
           overflow: 'visible',
@@ -38,7 +38,7 @@ class Container extends Component {
         <div
           style={{
             margin: '0 auto',
-            maxWidth: 960,
+            maxWidth: 1200,                         // Mid white space
             padding: '0px 1.0875rem 1.45rem',
             paddingTop:
               !sidebarDocked && onPostPage && (!sidebarHide || !anchorHide)

@@ -9,7 +9,7 @@ class ResponsiveSidebar extends Component {
           position: 'fixed',
           top: 80,
           left: 10,
-          right: '80%',
+          right: '85%',    // Right side bar space      
           bottom: 0,
           overflow: 'auto',
         }}
