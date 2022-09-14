@@ -10,16 +10,16 @@ const IndexPage = () => {
       <div>
         <div align="center">
           <br />
-          <p
+          <h1
             style={{
               color: 'cornflowerblue',
               fontSize: 50,
               fontWeight: 'bold',
             }}
           >
-            Gatsby Markdown Starter
-          </p>
-          <h2>Boilerplate for markdown-based website</h2>
+            Welcome
+          </h1>
+          <h2>to my website</h2>
           <br />
           <Link to="/docs/guide/anchor">
             <Button
@@ -28,14 +28,14 @@ const IndexPage = () => {
               icon="right-circle"
               style={{ marginRight: 10 }}
             >
-              Guide
+              Home
             </Button>
           </Link>
           <Button
             type="primary"
             size="large"
             icon="github"
-            href="https://github.com/cvluca/gatsby-starter-markdown"
+            href="https://github.com/AbbBallout/WebPage"
             style={{ marginRight: 10 }}
           >
             Github
@@ -44,7 +44,7 @@ const IndexPage = () => {
             type="primary"
             size="large"
             icon="twitter"
-            href="https://github.com/cvluca/gatsby-starter-markdown"
+            href="https://twitter.com/AbbasComputes"
           >
             twitter
           </Button>

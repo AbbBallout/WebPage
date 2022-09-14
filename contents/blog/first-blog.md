@@ -6,4 +6,4 @@ sidebar: Blog
 showTitle: true
 hideAnchor: true
 ---
-[Next Blog](/blog/second-blog)
+I can do stuff
