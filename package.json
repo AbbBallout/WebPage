@@ -43,7 +43,8 @@
   },
   "devDependencies": {
     "acorn": ">=6.4.1",
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^2.2.0",
+    "install": "^0.13.0",
     "kind-of": ">=6.0.3",
     "mem": "^5.1.1",
     "minimist": ">=1.2.3",
