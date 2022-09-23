@@ -82,9 +82,9 @@ class Layout extends Component {
                           </AntdLayout.Sider>
                         )}
                         <AntdLayout.Content
-                          style={{
+                          style={{ 
                             position: 'absolute',
-                            left: '20%',
+                            left: '15%',
                             right: '15%',
                           }}
                         >
